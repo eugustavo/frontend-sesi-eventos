@@ -58,10 +58,12 @@ html, input, button {
 }
 
 .content form select {
-  font-size: 14px;
-  color: #444;
-  font-weight: bold;
-  margin-bottom: 8px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+  height: 45px;
+  padding: 0 10px;
+  font-size: 16px;
 }
 
 .content form label span{

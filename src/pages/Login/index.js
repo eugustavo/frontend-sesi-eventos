@@ -5,8 +5,7 @@ export default function Login({ history }) {
     return (
         <>
             <p>
-                Sistema para <strong>registro</strong> de atendimentos no evento <strong>Ação Global</strong>
-
+                O <strong>SESI Eventos</strong> é um sistema de <strong>apoio</strong> para eventos realzados pelo <strong>SESI</strong>
             </p>
             <Link to="/new">
                 <button className="btn">Entrar</button>
