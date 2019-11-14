@@ -92,6 +92,7 @@ html, input, button {
   background: #2e4fe0;
   color: #fff;
   cursor: pointer;
+  margin-bottom: 10px;
 }
 
 .content button.btn:hover{

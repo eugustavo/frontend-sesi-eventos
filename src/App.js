@@ -8,7 +8,9 @@ import Routes from './routes';
 function App() {
   return (
     <div className="container">
-      <img src={logo} alt="AirCnC" style={{ height: 120 }}/>
+      <a href="/">
+        <img src={logo} alt="AirCnC" style={{ height: 120 }}/>
+      </a>
 
       <div className="content">
         <Routes />
